@@ -7,3 +7,6 @@
 - 메인화면 요소 제거 (실시간 베스트, 실북 갤러리, 추천 갤러리, 신규 개설 갤러리)
 - 댓글 하단 관련 글 리스트
 - 매니저 전용 게시글 길게 누르기 동작 (차단, 삭제)
+
+# 소스코드
+https://gitlab.com/tristan23612/revanced-patches/-/tree/feat/dcinside?ref_type=heads
