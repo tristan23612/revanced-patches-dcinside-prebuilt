@@ -6,7 +6,7 @@
 
 #### Supported Latest Version
 
-| 5.3.10 |
+| 5.3.12 |
 | :---: |
 
 | Patch                                                | Description                                                         |
